@@ -1,101 +1,101 @@
-/* Class = "NSButtonCell"; title = " Capture gRPC via Interceptor"; ObjectID = "06D-Ik-57G"; */
-"06D-Ik-57G.title" = " 通过拦截器捕获 gRPC";
+/* Класс = "NSButtonCell"; заголовок = "Захват gRPC через перехватчик"; ObjectID = "06D-Ik-57G"; */
+"06D-Ik-57G.title" = "Захват gRPC через перехватчик";
 
-/* Class = "NSTextFieldCell"; title = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis would use Bonjour Service to discover Proxyman app from your local network.</string>\n<key>NSBonjourServices</key>\n<array>\n    <string>_Proxyman._tcp</string>\n</array>"; ObjectID = "1XJ-cw-FoT"; */
-"1XJ-cw-FoT.title" = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis 将使用 Bonjour 服务从您的本地网络发现 Proxyman 应用程序。</string>\n<key>NSBonjourServices</key>\n<array>\n <string >_Proxyman._tcp</string>\n</array>";
+/* Класс = "NSTextFieldCell"; заголовок = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis будет использовать службу Bonjour для обнаружения приложения Proxyman из вашей локальной сети.</string>\n<key>NSBonjourServices</key>\n<array>\n <string>_Proxyman._tcp</string>\n</array>"; ObjectID = "1XJ-cw-FoT"; */
+"1XJ-cw-FoT.title" = "<key>NSLocalNetworkUsageDescription</key>\n<string>Atlantis будет использовать службы Bonjour для обнаружения приложения Proxyman из вашей локальной сети.</string>\n<key>NSBonjourServices</key>\n<array>\n <string >_Proxyman._tcp</string>\n</array>";
 
-/* Class = "NSTextFieldCell"; title = "Atlantis.start()"; ObjectID = "5EY-Rj-gkk"; */
-"5EY-Rj-gkk.title" = "Atlantis.start()";
+/* Класс = "NSTextFieldCell"; заголовок = "Atlantis.start()"; ObjectID = "5EY-Rj-gkk"; */
+"5EY-Rj-gkk.title" = "Атлантида.start()";
 
-/* Class = "NSButtonCell"; title = " Support iOS Physical Devices and Simulators"; ObjectID = "70u-YQ-QHo"; */
-"70u-YQ-QHo.title" = " 支持 iOS 物理设备和模拟器";
+/* Класс = "NSButtonCell"; заголовок = "Поддержка физических устройств и симуляторов iOS"; ObjectID = "70u-YQ-QHo"; */
+"70u-YQ-QHo.title" = "Поддержка физических устройств и симуляторов iOS";
 
-/* Class = "NSTextFieldCell"; title = "+ If you only want to connect to your Mac rather than colleague's Mac:"; ObjectID = "74P-8C-9Fq"; */
-"74P-8C-9Fq.title" = "+ 如果您只想连接到您的 Mac 而不是同事的 Mac：";
+/* Class = "NSTextFieldCell"; title = "+ Если вы хотите подключиться только к своему Mac, а не к Mac коллеги:"; ObjectID = "74P-8C-9Fq"; */
+"74P-8C-9Fq.title" = "+ Если вы хотите подключиться только к своему Mac, а не к Mac ваших коллег:";
 
-/* Class = "NSTextFieldCell"; title = "A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your app. \nNo more messing around with proxy and certificate config."; ObjectID = "DbA-qH-UCG"; */
-"DbA-qH-UCG.title" = "一个小巧而强大的 iOS 框架，用于从您的应用中窃听 HTTP/HTTPS 流量。 \n不用再搞乱代理和证书配置了。";
+/* Class = "NSTextFieldCell"; title = "Небольшой и мощный фреймворк iOS для перехвата трафика HTTP/HTTPS из вашего приложения. \nБольше не нужно возиться с конфигурацией прокси и сертификата."; ObjectID = "DbA-qH-UCG"; */
+"DbA-qH-UCG.title" = "Небольшой и мощный фреймворк iOS для перехвата трафика HTTP/HTTPS из вашего приложения. \nБольше не нужно возиться с конфигурациями прокси-сервера и сертификатов.";
 
-/* Class = "NSButtonCell"; title = " Inspect network traffic on Proxyman app"; ObjectID = "DwI-LG-lqG"; */
-"DwI-LG-lqG.title" = " 在 Proxyman 上检视网络流量";
+/* Класс = "NSButtonCell"; заголовок = "Проверка сетевого трафика в приложении Proxyman"; ObjectID = "DwI-LG-lqG"; */
+"DwI-LG-lqG.title" = "Просмотр сетевого трафика на Proxyman";
 
-/* Class = "NSTextFieldCell"; title = "🧰 Atlantis - iOS Framework"; ObjectID = "EoS-fV-A7W"; */
-"EoS-fV-A7W.title" = "🧰 Atlantis - iOS 框架";
+/* Класс = "NSTextFieldCell"; заголовок = "🧰 Atlantis - iOS Framework"; ObjectID = "EoS-fV-A7W"; */
+"EoS-fV-A7W.title" = "🧰 Atlantis - iOS Framework";
 
-/* Class = "NSTextFieldCell"; title = "https://github.com/ProxymanApp/atlantis"; ObjectID = "ErA-FZ-Eke"; */
+/* Класс = "NSTextFieldCell"; заголовок = "https://github.com/ProxymanApp/atlantis"; ObjectID = "ErA-FZ-Eke"; */
 "ErA-FZ-Eke.title" = "https://github.com/ProxymanApp/atlantis";
 
-/* Class = "NSButtonCell"; title = "Bonjour Service Error:"; ObjectID = "Kx3-DJ-4V2"; */
-"Kx3-DJ-4V2.title" = "Bonjour服务错误：";
+/* Класс = "NSButtonCell"; заголовок = "Ошибка службы Bonjour:"; ObjectID = "Kx3-DJ-4V2"; */
+"Kx3-DJ-4V2.title" = "Ошибка службы Bonjour:";
 
-/* Class = "NSTextFieldCell"; title = "Install via CocoaPod:"; ObjectID = "LK3-Dm-2PS"; */
-"LK3-Dm-2PS.title" = "通过 CocoaPod 安装：";
+/* Класс = "NSTextFieldCell"; заголовок = "Установить через CocoaPod:"; ObjectID = "LK3-Dm-2PS"; */
+"LK3-Dm-2PS.title" = "Установить через CocoaPod:";
 
-/* Class = "NSTextFieldCell"; title = "By default, Atlantis will connect to all Proxyman apps from other Mac on the same Network."; ObjectID = "M21-pX-A3l"; */
-"M21-pX-A3l.title" = "默认情况下，Atlantis 将连接到同一网络中所有其他 Mac 的 Proxyman 应用程序。";
+/* Class = "NSTextFieldCell"; title = "По умолчанию Atlantis будет подключаться ко всем приложениям Proxyman с других компьютеров Mac в той же сети."; ObjectID = "M21-pX-A3l"; */
+"M21-pX-A3l.title" = "По умолчанию Atlantis будет подключаться к приложениям Proxyman всех других компьютеров Mac в той же сети.";
 
-/* Class = "NSButtonCell"; title = " Capture WebSocket from URLSessionWebsocketTask"; ObjectID = "NIt-8E-iJ4"; */
-"NIt-8E-iJ4.title" = " 从 URLSessionWebsocketTask 捕获 WebSocket";
+/* Класс = "NSButtonCell"; заголовок = "Захват WebSocket из URLSessionWebsocketTask"; ObjectID = "NIt-8E-iJ4"; */
+"NIt-8E-iJ4.title" = "Захват WebSocket из URLSessionWebsocketTask";
 
-/* Class = "NSTextFieldCell"; title = "Add the following code to Info.plist (iOS 14+)"; ObjectID = "NfB-kK-FXd"; */
-"NfB-kK-FXd.title" = "将以下代码添加到 Info.plist (iOS 14+)";
+/* Class = "NSTextFieldCell"; title = "Добавьте следующий код в Info.plist (iOS 14+)"; ObjectID = "NfB-kK-FXd"; */
+"NfB-kK-FXd.title" = "Добавьте следующий код в Info.plist (iOS 14+)";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "PkR-iH-H1j"; */
-"PkR-iH-H1j.ibShadowedToolTip" = "拷贝";
+/* Класс = "NSButton"; ibShadowedToolTip = "Копировать"; ObjectID = "PkR-iH-H1j"; */
+"PkR-iH-H1j.ibShadowedToolTip" = "Копировать";
 
-/* Class = "NSTextFieldCell"; title = "Atlantis.start(hostName: \"nghias\")"; ObjectID = "VwY-dG-rTd"; */
-"VwY-dG-rTd.title" = "Atlantis.start（主机名：\“装饰\”）";
+/* Класс = "NSTextFieldCell"; заголовок = "Atlantis.start(hostName: \"nghias\")"; ObjectID = "VwY-dG-rTd"; */
+"VwY-dG-rTd.title" = "Atlantis.start(имя хоста:\"Украшение\")";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "Yfe-og-Un2"; */
-"Yfe-og-Un2.ibShadowedToolTip" = "拷贝";
+/* Класс = "NSButton"; ibShadowedToolTip = "Копировать"; ObjectID = "Yfe-og-Un2"; */
+"Yfe-og-Un2.ibShadowedToolTip" = "Копировать";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "Yqs-Cb-G8d"; */
-"Yqs-Cb-G8d.title" = "盒子";
+/* Класс = "NSBox"; заголовок = "Box"; ObjectID = "Yqs-Cb-G8d"; */
+"Yqs-Cb-G8d.title" = "Коробка";
 
-/* Class = "NSButtonCell"; title = "How to Install?"; ObjectID = "Z2z-ZU-CKC"; */
-"Z2z-ZU-CKC.title" = "如何安装？";
+/* Класс = "NSButtonCell"; заголовок = "Как установить?"; ObjectID = "Z2z-ZU-CKC"; */
+"Z2z-ZU-CKC.title" = "Как установить?";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "ZTS-2w-k1s"; */
-"ZTS-2w-k1s.title" = "盒子";
+/* Класс = "NSBox"; заголовок = "Box"; ObjectID = "ZTS-2w-k1s"; */
+"ZTS-2w-k1s.title" = "Коробка";
 
-/* Class = "NSTextFieldCell"; title = "Swift Package Manager:"; ObjectID = "aDj-C7-KCi"; */
-"aDj-C7-KCi.title" = "Swift 包管理器：";
+/* Класс = "NSTextFieldCell"; заголовок = "Менеджер пакетов Swift:"; ObjectID = "aDj-C7-KCi"; */
+"aDj-C7-KCi.title" = "Менеджер пакетов Swift:";
 
-/* Class = "NSTextFieldCell"; title = "+ If you have only one Mac:"; ObjectID = "bya-og-kQj"; */
-"bya-og-kQj.title" = "+ 如果您只有一台 Mac：";
+/* Class = "NSTextFieldCell"; title = "+ Если у вас только один Mac:"; ObjectID = "bya-og-kQj"; */
+"bya-og-kQj.title" = "+ Если у вас только Mac:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "cye-18-Mv1"; */
-"cye-18-Mv1.ibShadowedToolTip" = "拷贝";
+/* Класс = "NSButton"; ibShadowedToolTip = "Копировать"; ObjectID = "cye-18-Mv1"; */
+"cye-18-Mv1.ibShadowedToolTip" = "Копировать";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "egS-8e-yfa"; */
-"egS-8e-yfa.ibShadowedToolTip" = "拷贝";
+/* Класс = "NSButton"; ibShadowedToolTip = "Копировать"; ObjectID = "egS-8e-yfa"; */
+"egS-8e-yfa.ibShadowedToolTip" = "Копировать";
 
-/* Class = "NSButtonCell"; title = "Only Support macOS 10.14+"; ObjectID = "g0h-DO-kXC"; */
-"g0h-DO-kXC.title" = "仅支持 macOS 10.14+";
+/* Класс = "NSButtonCell"; заголовок = "Поддерживает только macOS 10.14+"; ObjectID = "g0h-DO-kXC"; */
+"g0h-DO-kXC.title" = "Поддерживает только macOS 10.14+";
 
-/* Class = "NSButtonCell"; title = " No need to config HTTP Proxy, Install or Trust any Certificate"; ObjectID = "g6F-W8-wu0"; */
-"g6F-W8-wu0.title" = " 无需配置 HTTP 代理、安装或信任任何证书";
+/* Class = "NSButtonCell"; title = "Не нужно настраивать HTTP-прокси, устанавливать или доверять никаким сертификатам"; ObjectID = "g6F-W8-wu0"; */
+"g6F-W8-wu0.title" = "Нет необходимости настраивать HTTP-прокси, устанавливать или доверять каким-либо сертификатам";
 
-/* Class = "NSTextFieldCell"; title = "Add to application(_:didFinishLaunchingWithOptions:)"; ObjectID = "i97-oV-dgj"; */
-"i97-oV-dgj.title" = "添加到应用程序(_:didFinishLaunchingWithOptions:)";
+/* Класс = "NSTextFieldCell"; заголовок = "Добавить в приложение(_:didFinishLaunchingWithOptions:)"; ObjectID = "i97-oV-dgj"; */
+"i97-oV-dgj.title" = "Добавить в приложение(_:didFinishLaunchingWithOptions:)";
 
-/* Class = "NSButtonCell"; title = " Your Atlantis iOS version is out-of-date and not compatible. Please update Atlantis!"; ObjectID = "nRT-uP-e0V"; */
-"nRT-uP-e0V.title" = " 您的 Atlantis iOS 版本已过时且不兼容。请更新 Atlantis ！";
+/* Class = "NSButtonCell"; title = "Ваша версия Atlantis iOS устарела и несовместима. Пожалуйста, обновите Atlantis!"; ObjectID = "nRT-uP-e0V"; */
+"nRT-uP-e0V.title" = "Ваша версия Atlantis iOS устарела и несовместима. Пожалуйста, обновите Atlantis!";
 
-/* Class = "NSTextFieldCell"; title = "pod 'atlantis-proxyman'"; ObjectID = "nkB-fj-i3i"; */
-"nkB-fj-i3i.title" = "pod 'atlantis-proxyman'";
+/* Класс = "NSTextFieldCell"; заголовок = "pod 'atlantis-proxyman'"; ObjectID = "nkB-fj-i3i"; */
+"nkB-fj-i3i.title" = "модуль 'atlantis-proxyman'";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy"; ObjectID = "nw5-9I-htw"; */
-"nw5-9I-htw.ibShadowedToolTip" = "拷贝";
+/* Класс = "NSButton"; ibShadowedToolTip = "Копировать"; ObjectID = "nw5-9I-htw"; */
+"nw5-9I-htw.ibShadowedToolTip" = "Копировать";
 
-/* Class = "NSButtonCell"; title = "Github..."; ObjectID = "txQ-HR-Di4"; */
+/* Класс = "NSButtonCell"; заголовок = "Github..."; ObjectID = "txQ-HR-Di4"; */
 "txQ-HR-Di4.title" = "GitHub...";
 
-/* Class = "NSButtonCell"; title = "How to Start Atlantis?"; ObjectID = "ycQ-Jd-yLH"; */
-"ycQ-Jd-yLH.title" = "如何启动 Atlantis ？";
+/* Класс = "NSButtonCell"; заголовок = "Как запустить Atlantis?"; ObjectID = "ycQ-Jd-yLH"; */
+"ycQ-Jd-yLH.title" = "Как запустить Атлантиду?";
 
-/* Class = "NSButtonCell"; title = " Automatically intercept all HTTP/HTTPS Traffic from your iOS app"; ObjectID = "zXg-wd-cNO"; */
-"zXg-wd-cNO.title" = " 自动拦截来自您的 iOS 应用程序的所有 HTTP/HTTPS 流量";
+/* Class = "NSButtonCell"; title = "Автоматически перехватывать весь трафик HTTP/HTTPS из вашего приложения iOS"; ObjectID = "zXg-wd-cNO"; */
+"zXg-wd-cNO.title" = "Автоматически перехватывать весь трафик HTTP/HTTPS из ваших приложений iOS";
 
-/* Class = "NSTextFieldCell"; title = "Enable Atlantis Service"; ObjectID = "uWV-DL-U4w"; */
-"uWV-DL-U4w.title" = "启用 Atlantis 服务";
+/* Класс = "NSTextFieldCell"; заголовок = "Включить службу Atlantis"; ObjectID = "uWV-DL-U4w"; */
+"uWV-DL-U4w.title" = "Включить службу Atlantis";
