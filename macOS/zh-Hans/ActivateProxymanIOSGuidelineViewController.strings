@@ -1,38 +1,38 @@
-/* Class = "NSTextFieldCell"; title = "Enjoy using Proxyman for iOS with all Premium features ❤️"; ObjectID = "K22-1O-OwN"; */
-"K22-1O-OwN.title" = "享受使用 Proxyman for iOS 的所有高级功能❤️";
+/* Class = "NSTextFieldCell"; title = "Наслаждайтесь использованием Proxyman для iOS со всеми премиум-функциями ❤️"; ObjectID = "K22-1O-OwN"; */
+"K22-1O-OwN.title" = "Наслаждайтесь всеми расширенными функциями Proxyman для iOS❤️";
 
-/* Class = "NSTextFieldCell"; title = "Step 1: "; ObjectID = "Tp4-ks-ocE"; */
-"Tp4-ks-ocE.title" = "步骤1：";
+/* Класс = "NSTextFieldCell"; заголовок = "Шаг 1: "; ObjectID = "Tp4-ks-ocE"; */
+"Tp4-ks-ocE.title" = "Шаг 1:";
 
-/* Class = "NSTextFieldCell"; title = "Get your iPhone/iPad and Download Proxyman for iOS from AppStore"; ObjectID = "Uh4-1Q-jz7"; */
-"Uh4-1Q-jz7.title" = "从 iPhone/iPad 的应用商店获取下载适用于iOS的Proxyman";
+/* Class = "NSTextFieldCell"; title = "Возьмите свой iPhone/iPad и загрузите Proxyman для iOS из AppStore"; ObjectID = "Uh4-1Q-jz7"; */
+"Uh4-1Q-jz7.title" = "Загрузить Proxyman для iOS из App Store для iPhone/iPad";
 
-/* Class = "NSTextFieldCell"; title = "Open More Tab (on the Right-Bottom TabBar) -> FaceID & Passcode -> Unlock -> Enter your license key."; ObjectID = "XUP-1h-sAK"; */
-"XUP-1h-sAK.title" = "打开更多选项卡（在右下选项卡栏上）-> FaceID 和密码-> 解锁-> 输入您的许可证密钥。";
+/* Class = "NSTextFieldCell"; title = "Открыть вкладку "Дополнительно" (на правой нижней панели вкладок) -> FaceID и пароль -> Разблокировать -> Введите лицензионный ключ."; ObjectID = "XUP-1h-sAK"; */
+"XUP-1h-sAK.title" = "Откройте вкладку «Дополнительно» (на нижней правой панели вкладок) -> FaceID и пароль -> Разблокировать -> Введите лицензионный ключ.";
 
-/* Class = "NSButtonCell"; title = "Go to AppStore..."; ObjectID = "ZLg-ek-DeR"; */
-"ZLg-ek-DeR.title" = "到 AppStore...";
+/* Класс = "NSButtonCell"; заголовок = "Перейти в AppStore..."; ObjectID = "ZLg-ek-DeR"; */
+"ZLg-ek-DeR.title" = "В AppStore...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Copy AppStore URL"; ObjectID = "aiQ-Z0-KRb"; */
-"aiQ-Z0-KRb.ibShadowedToolTip" = "拷贝 AppStore 网址";
+/* Класс = "NSButton"; ibShadowedToolTip = "Копировать URL AppStore"; ObjectID = "aiQ-Z0-KRb"; */
+"aiQ-Z0-KRb.ibShadowedToolTip" = "Копировать URL-адрес AppStore";
 
-/* Class = "NSTextFieldCell"; title = "Support iOS & iPadOS. Require iOS 14+."; ObjectID = "bTD-X7-grf"; */
-"bTD-X7-grf.title" = "支持 iOS 和 iPadOS。需要 iOS 14+。";
+/* Class = "NSTextFieldCell"; title = "Поддерживает iOS и iPadOS. Требуется iOS 14+."; ObjectID = "bTD-X7-grf"; */
+"bTD-X7-grf.title" = "Поддерживает iOS и iPadOS. Требуется iOS 14+.";
 
-/* Class = "NSButtonCell"; title = "Getting Started with Proxyman for iOS..."; ObjectID = "dyc-O9-sW9"; */
-"dyc-O9-sW9.title" = "iOS Proxyman 入门...";
+/* Класс = "NSButtonCell"; заголовок = "Начало работы с Proxyman для iOS..."; ObjectID = "dyc-O9-sW9"; */
+"dyc-O9-sW9.title" = "Начало работы с iOS Proxyman...";
 
-/* Class = "NSTextFieldCell"; title = "📲 Activate Premium Proxyman for iOS"; ObjectID = "eQT-MA-ZCc"; */
-"eQT-MA-ZCc.title" = "📲 为 iOS 激活 Premium Proxyman";
+/* Класс = "NSTextFieldCell"; заголовок = "📲 Активировать Premium Proxyman для iOS"; ObjectID = "eQT-MA-ZCc"; */
+"eQT-MA-ZCc.title" = "📲 Активировать Premium Proxyman для iOS";
 
-/* Class = "NSButtonCell"; title = "iOS Home Page..."; ObjectID = "fFU-BW-CUq"; */
-"fFU-BW-CUq.title" = "iOS 主页...";
+/* Класс = "NSButtonCell"; заголовок = "Домашняя страница iOS..."; ObjectID = "fFU-BW-CUq"; */
+"fFU-BW-CUq.title" = "iOS Home...";
 
-/* Class = "NSButtonCell"; title = "Button"; ObjectID = "p1g-10-59s"; */
-"p1g-10-59s.title" = "按钮";
+/* Класс = "NSButtonCell"; заголовок = "Кнопка"; ObjectID = "p1g-10-59s"; */
+"p1g-10-59s.title" = "Кнопка";
 
-/* Class = "NSTextFieldCell"; title = "Step 2: "; ObjectID = "wFX-bV-4Ro"; */
-"wFX-bV-4Ro.title" = "第2步：";
+/* Класс = "NSTextFieldCell"; заголовок = "Шаг 2: "; ObjectID = "wFX-bV-4Ro"; */
+"wFX-bV-4Ro.title" = "Шаг 2:";
 
-/* Class = "NSTextFieldCell"; title = "Activate with the License Key"; ObjectID = "xhH-oC-wbd"; */
-"xhH-oC-wbd.title" = "使用许可证密钥激活";
+/* Class = "NSTextFieldCell"; title = "Активировать с помощью лицензионного ключа"; ObjectID = "xhH-oC-wbd"; */
+"xhH-oC-wbd.title" = "Активировать с помощью лицензионного ключа";
